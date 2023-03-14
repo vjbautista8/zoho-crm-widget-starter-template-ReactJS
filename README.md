@@ -2,7 +2,7 @@
 
 ## Requirements ! MUST HAVE !!
 
-1. First, make sure you have all requirements to create simple zoho creator widget, please refer to this article https://www.zoho.com/creator/newhelp/app-settings/widgets/install-cli.html.
+1. First, make sure you have all requirements to create simple zoho crm widget, please refer to this article https://help.zwidgets.com/help/v1.1/index.html.
 
 ```
 npm install -g zoho-extension-toolkit

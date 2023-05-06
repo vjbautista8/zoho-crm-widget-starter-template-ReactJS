@@ -42,7 +42,7 @@ https://127.0.0.1:5000/app/index.html
 
 2. Edit the code like normal React JS application.
 
-## How to build and deploy to Zoho Creator
+## How to build and deploy to Zoho CRM
 
 1. Build your application. Make sure your directory in cmd is `/react_app` folder, then run the following command
 
